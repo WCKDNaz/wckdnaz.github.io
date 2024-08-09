@@ -10,6 +10,8 @@ Major Disciplines:
 -   Artificial Intelligence
 -   Machine Learning
 -   Computer Vision
+
+
 ### B.BA of Information Management | Arab Academy for Science, Technology, And Maritime Transport, Egypt (AASTMT) (_Sept 2017_) - (_Sept 2021_)
 Major Disciplines:
 -   Information System Analysis & Design
