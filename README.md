@@ -3,7 +3,7 @@ This page is created to reflect on my journey through the field of Information T
 I'll be uploading my work here and how I managed to solve Capture The Flag (CTF) challenges from my own point of view, showcasing my methodology.
 
 ## Technical Skills:
-Python | Bash | Unix CLI | MATLAB
+Python | MATLAB | Unix CLI | Bash | Offensive Tooling
 
 ## Education
 ### M.Sc of Artificial Intelligence | University of East London, London (UEL) (_Jan 2024_) - (_Present_)
@@ -27,11 +27,8 @@ Major Disciplines:
 >
 >Fine-tuned different learning algorithms by the usage of ensemble techniques and OneVsRest.
 
-## CTF Write-Ups
->![Basic Pentest](/assets/basic_pentest_img)
->
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Basic Pentest](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
-
+## CTF Write-Ups & Walkthroughs
+[Basic Pentest - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
 ### Socials
 [LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/)
