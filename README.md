@@ -28,9 +28,9 @@ Major Disciplines:
 >Fine-tuned different learning algorithms by the usage of ensemble techniques and OneVsRest.
 
 ## CTF Write-Ups
->![Basic Pentest](/assets/assets1.png)
+>![Basic Pentest](/assets/basic_pentest_img)
 >
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Basic Pentest](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Basic Pentest](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
 
 ### Socials
