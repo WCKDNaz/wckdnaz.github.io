@@ -21,7 +21,7 @@ Major Disciplines:
 ## Projects
 ### URL Classification With Logistic Regression
 - Built a model from scratch using **pyspark's** library to determine whether a URL is malicious or benign based on a set of features compiled by vectorassembler.
-- Features were gathered by a heatmap that correlated the highest impact of all viable columns to the target label column.
+- Features were identified by the output of a heatmap using **numpy's** library that correlated the highest impact of all viable columns to the target label column.
 - Fine-tuned different learning algorithms by the usage of ensemble techniques and OneVsRest.
 
 
