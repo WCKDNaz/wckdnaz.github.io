@@ -30,7 +30,7 @@ Major Disciplines:
 ## CTF Write-Ups
 >![Basic Pentest](/assets/assets1.png)
 >
->[Basic Pentest](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Basic Pentest](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
 
 ### Socials
