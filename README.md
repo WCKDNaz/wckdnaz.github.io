@@ -27,9 +27,11 @@ Major Disciplines:
 >
 >Fine-tuned different learning algorithms by the usage of ensemble techniques and OneVsRest.
 
-## CTF Write-Ups & Walkthroughs
+## CTF Write-Ups
 [Basic Pentest - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
+## Module Walkthroughs
+[PwnCollege - Talking Web](./pwncol-walkthroughs/Talking-Web-Module.html)
 ### Socials
 [LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/)
 [TryHackMe](https://tryhackme.com/p/WCKDNaz)
