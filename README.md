@@ -25,7 +25,7 @@ Major Disciplines:
 >
 >Features were identified by the output of a heatmap using **numpy's** library that correlated the highest impact of all viable columns to the target label column.
 >
->Fine-tuned different learning algorithms by the usage of ensemble techniques and OneVsRest.
+>Fine-tuned different learning algorithms by the usage of ensemble techniques and different classifiers such as OneVsRest, etc.
 
 ## CTF Write-Ups
 [Basic Pentest - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
