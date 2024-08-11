@@ -32,7 +32,7 @@ Major Disciplines:
 
 ## Module Walkthroughs
 [PwnCollege - Talking Web](./pwncol-walkthroughs/Talking-Web-Module.md) |
-[OverTheWire - Bandit](./overthewire-walkthroughs/Bandit.md)
+[OverTheWire](./overthewire-walkthroughs/otw.md)
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/) |
