@@ -21,9 +21,9 @@ Major Disciplines:
 
 ## Projects
 ### URL Classification With Logistic Regression
->Built a model from scratch using **pyspark's** library to determine whether a URL is malicious or benign based on a set of features compiled by vectorassembler.
+>Built a model from scratch using **pyspark's** framework to determine whether a URL is malicious or benign based on a set of selected features.
 >
->Features were identified by the output of a heatmap using **numpy's** library that correlated the highest impact of all viable columns to the target label column.
+>Features were identified by the output of a heatmap using **numpy's** and **sklearn's** libraries that correlated the highest impact of all viable columns to the target label column.
 >
 >Fine-tuned different learning algorithms by the usage of ensemble techniques and different classifiers such as OneVsRest, etc.
 
@@ -31,7 +31,7 @@ Major Disciplines:
 [Basic Pentest - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
 ## Module Walkthroughs
-[PwnCollege - Talking Web](./pwncol-walkthroughs/Talking-Web-Module.md) |
+[PwnCollege](./pwncol-walkthroughs/pwncol.md) |
 [OverTheWire](./overthewire-walkthroughs/otw.md)
 
 ## Socials
