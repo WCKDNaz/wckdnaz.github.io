@@ -8,4 +8,4 @@ Theory: Using curl we can forge our own http requests, and in order to solve thi
 curl 127.0.0.1:80
 ```
 
-[Back to Main Page](../../)
+[PwnCollege Modules List](./pwncol.md)
