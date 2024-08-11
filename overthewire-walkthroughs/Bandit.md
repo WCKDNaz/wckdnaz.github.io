@@ -5,4 +5,4 @@ layout: default
 ## Level 1:
 
 
-[OverTheWire Wargames List](.././otw.md)
+[OverTheWire Wargames List](./otw.md)
