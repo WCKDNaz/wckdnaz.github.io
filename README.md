@@ -31,8 +31,10 @@ Major Disciplines:
 [Basic Pentest - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
 ## Module Walkthroughs
-[PwnCollege - Talking Web](./pwncol-walkthroughs/Talking-Web-Module.md)
-### Socials
-[LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/)
-[TryHackMe](https://tryhackme.com/p/WCKDNaz)
+[PwnCollege - Talking Web](./pwncol-walkthroughs/Talking-Web-Module.md) |
+[OverTheWire - Bandit](./overthewire-walkthroughs/Bandit.md)
+
+## Socials
+[LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/) |
+[TryHackMe](https://tryhackme.com/p/WCKDNaz) |
 [HackTheBox](https://ctf.hackthebox.com/user/profile/431133)
