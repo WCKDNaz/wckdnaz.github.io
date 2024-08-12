@@ -5,7 +5,7 @@ layout: default
 Disclaimer: I'm only allowed to post challenge solutions for challenges that consist of 25 points or less, and are introductory challenges according to cryptohack's instructions.
 
 ## Challenge: ASCII
-```python3
+```python
 #!/usr/bin/python3
 # Task: Provided is an ASCII encoded integer array, convert them to characters to get the flag.
 
