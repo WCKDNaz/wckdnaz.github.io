@@ -2,8 +2,7 @@
 layout: default
 ---
 # Talking Web Module Walkthrough *(Levels 1-18)* - PwnCollege 
-Practicality of the Module: Using curl or nc or python3 **(requests)** library we can forge our own http requests, and in order to solve this level we need to issue a 
-GET request to `port 80` on localhost which throughout this module will be assigned to and IPv4 address of `127.0.0.1` / `http://127.0.0.1`, this is a layered module that can be solved in numerical order or an unordered manner.
+Practicality of the Module: Using curl or nc or python3 **(requests)** library we can forge our own http requests, and in order to solve the module challenges we need to issue an http request to `port 80` on localhost which throughout this module will be assigned to an IPv4 address of `127.0.0.1`, better interpreted as `http://127.0.0.1`, this is a layered module, meaning that the ideas presented in a level help you understand the next one more effectively.
 ## Level 1:
 ```
 curl 127.0.0.1:80
