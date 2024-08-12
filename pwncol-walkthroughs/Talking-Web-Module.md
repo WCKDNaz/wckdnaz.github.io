@@ -20,7 +20,7 @@ r = requests.get('http://127.0.0.1:80')
 print(r.text)
 ```
 ## Level 4:
-# Note: You're asked to modify your request that it correctly requests specific values from the server, within the **<>** provided is where you paste in level-specific values to be able to solve the challenge. This gets repeated along the way from this point on forward.
+Note: You're asked to modify your request that it correctly requests specific values from the server, within the **<>** provided is where you paste in level-specific values to be able to solve the challenge. This gets repeated along the way from this point on forward.
 ```
 curl -H <"paste_host_header_value"> 127.0.0.1:80
 ```
@@ -54,7 +54,7 @@ path = '/<"paste_in_path_value">'
 r = requests.get(base_url + path)
 print(r.text)
 ```
-# Note: Now this is where the module builds up in complexity, providing you have knowledge on how to use python or any other tool in your disposal to aid in helping you forge the correct request, I chose python for its ease of use and how it's already incorporated in the module.
+Note: Now this is where the module builds up in complexity, providing you have knowledge on how to use python or any other tool in your disposal to aid in helping you forge the correct request, I chose python for its ease of use and how it's already incorporated in the module.
 ## Level 10:
 ```
 python3
@@ -104,7 +104,7 @@ base_url = "http://127.0.0.1"
 r = requests.get(base_url, params)
 print(r.text)
 ```
-# Note: For the next two levels, 2 paths are provided, one needs encoding and one doesn't. Now some tools don't offer url encoding like netcat, but curl and python do.
+Note: For the next two levels, 2 arguments are provided, one value needs url encoding and one doesn't. Now some tools don't offer url encoding like netcat, but curl and python do.
 ## Level 16:
 ```
 curl -G -d "a=<"paste_in_arg1_value">" --data-urlencode "b=<"paste_in_arg2_value">" http://127.0.0.1
