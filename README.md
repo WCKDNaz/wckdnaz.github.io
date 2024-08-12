@@ -32,7 +32,8 @@ Major Disciplines:
 
 ## Module Walkthroughs
 [PwnCollege](./pwncol-walkthroughs/pwncol.md) |
-[OverTheWire](./overthewire-walkthroughs/otw.md)
+[OverTheWire](./overthewire-walkthroughs/otw.md) | 
+[CryptoHack](./cryptohalk-walkthrough/challenges.md)
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/) |
