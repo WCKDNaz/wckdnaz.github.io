@@ -4,7 +4,7 @@ layout: default
 # Introductory Challenges to Cryptography - CryptoHack
 Disclaimer: I'm only allowed to post challenge solutions for challenges that consist of 25 points or less, and are introductory challenges according to cryptohack's instructions.
 
-## ASCII Encoded
+## Challenge: ASCII
 ```python3
 #!/usr/bin/python3
 # Task: Provided is an ASCII encoded integer array, convert them to characters to get the flag.
@@ -13,7 +13,7 @@ text = [99, 114, 121, 112, 116, 111, 123, 65, 83, 67, 73, 73, 95, 112, 114, 49, 
 print("the flag is:")
 print("".join(chr(i) for i in text))
 ```
-## Hex To Bytes
+## Challenge: Base64
 ```python
 #!/usr/bin/python3
 #Task: a hex string, decode to bytes and then encode in b64
