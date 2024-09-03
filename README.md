@@ -40,6 +40,7 @@ Major Disciplines:
 >Configured input layers and output layers respectively according to the number of classes existing in the dataset, set parameters to validate the learning process.
 >
 >Fine-tuned the network by adding accuracy and F1 score metrics to cross-validate, and configured a confusion matrix using MATLAB to analyze the results.
+
 ## CTF Write-Ups
 [Basic Pentest - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
@@ -51,5 +52,5 @@ Major Disciplines:
 ## Socials & Public Profiles
 [LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/) |
 [TryHackMe](https://tryhackme.com/p/WCKDNaz) |
-[HackTheBox](https://ctf.hackthebox.com/user/profile/431133)
+[HackTheBox](https://ctf.hackthebox.com/user/profile/431133) |
 [PwnCollege](https://pwn.college/hacker/wckdnaz)
