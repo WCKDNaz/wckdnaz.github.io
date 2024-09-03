@@ -17,13 +17,13 @@ Major Disciplines:
 -   Website Development
 
 ## Non-Credit Courses & Certs:
-[THM Advent of Cyber 2023](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZLF36RUJWF.png) - **TryHackMe** |
+[THM Advent of Cyber 2023](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZLF36RUJWF.png) - **TryHackMe**
 
-[Cisco CyberOps Assosciate Guide](https://www.udemy.com/certificate/UC-85d2e568-5c4f-4b08-9e8b-06cf7b091176/) - **Udemy** |
+[Cisco CyberOps (200-201) Assosciate Guide](https://www.udemy.com/certificate/UC-85d2e568-5c4f-4b08-9e8b-06cf7b091176/) - **Udemy**
 
-[MATLAB Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=72c95f65-6b5f-433d-b0ab-b49c6db102eb&)
-[MATLAB Image Processing Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9f28e5fd-4054-4c9b-a394-de9d31dccd36&)
-[MATLAB Deep Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=048d77ec-0f25-4107-ac61-9dfa839756bc&) - **MathWorks** 
+[Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=72c95f65-6b5f-433d-b0ab-b49c6db102eb&) |
+[Image Processing Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9f28e5fd-4054-4c9b-a394-de9d31dccd36&) |
+[Deep Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=048d77ec-0f25-4107-ac61-9dfa839756bc&) - **MathWorks**
 
 
 ## Projects
