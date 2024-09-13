@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Talking Web Module Walkthrough *(Levels 1-18)* - PwnCollege 
+# Talking Web Module Walkthrough *(Levels 1-22)* - PwnCollege 
 Practicality of the Module: Using curl or nc or python3 **(requests)** library we can forge our own http requests, and in order to solve the module challenges we need to issue an http request to `port 80` on localhost which throughout this module will be assigned to an IPv4 address of `127.0.0.1`, better interpreted as `http://127.0.0.1`, this is a layered module, meaning that the ideas presented in a level help you understand the next one more effectively.
 ## Level 1:
 ```
@@ -129,4 +129,42 @@ base_url = "http://127.0.0.1"
 r = requests.get(base_url, params)
 print(r.text)
 ```
+Note: We are now specifying POST http requests instead of GET, some tools are easier to deal with. 
+## Level 19:
+```
+curl -d "a=<"paste_in_arg1_value">" http://127.0.0.1
+# Curl defaults to a GET request, unless specified with a '-d' or a '-F' option
+```
+## Level 20: 
+```
+nc 127.0.0.1 80
+POST / HTTP/1.1
+Host: 127.0.0.1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 34
+(Press Enter)
+(Press Enter)
+a=<paste_in_arg_value>
+# Netcat is a bit tricky to use in this, as you need to specify the content length by
+# counting the all values of the key argument and its value you're providing in the form.
+# I suggest using python3 to count the length using the `len` function
+    Example: python3
+             key = "a=ldafgwdjlhfrr218773"
+             len(key) # It should return your key length to be concluded in the Content-Length.
+```
+## Level 21:
+```
+pytho3 import requests
+base_url = "http://127.0.0.1"
+r = requests.post(base_url, data={'a':'<paste_in_arg_value'})
+print(r.text)
+# For python3, we just specify '.post' instead of '.get'
+```
+Note: Now we're specifying multiple arguments, as it's supposed to ramp up in complexity. Also, we need to watch out for proper URL encoding.
+## Level 22:
+```
+curl -d "a=<'paste_in_arg1_value'>" --data-urlencode "b=<'paste_in_arg2_value'>" http://127.0.0.1 
+# Curl has been the easiest one to deal with in my honest opinion, just shows how versatile curl really is.
+```
+
 [PwnCollege Modules List](./pwncol.md)
