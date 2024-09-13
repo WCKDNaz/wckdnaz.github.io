@@ -2,7 +2,7 @@
 layout: default
 ---
 # Bandit Wargame Walkthrough - OverTheWire
-## Disclaimer: As this is an on-going challenge and the flags (passwords) for each level are reset on a regular basis, I won't be disclosing them here, I'll only disclose the theory and methods that I used to be able to get to the solution, I see this as a much better way for all of us to learn and see how each one's mind tries to grasp and build on ideas of abstraction.
+Disclaimer: As this is an on-going challenge and the flags (passwords) for each level are reset on a regular basis, I won't be disclosing them here, I'll only disclose the theory and methods that I used to be able to get to the solution, I see this as a much better way for all of us to learn and see how each one's mind tries to grasp and build on ideas of abstraction.
 ## Level 0 --> 1:
 ``` 
 - Simply use cat on the file `readme`
