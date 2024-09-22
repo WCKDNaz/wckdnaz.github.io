@@ -41,13 +41,13 @@ Major Disciplines:
 >
 >Fine-tuned the network by adding accuracy and F1 score metrics to cross-validate, and configured a confusion matrix using MATLAB to analyze the results.
 
-## CTF Write-Ups
-[Basic Pentest - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
+## CTF Machine Write-Ups
+[Basic Pentest Machine Room - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
-## Module Walkthroughs
-[PwnCollege](./pwncol-walkthroughs/pwncol.md) |
-[OverTheWire](./overthewire-walkthroughs/otw.md) | 
-[CryptoHack](./cryptohack-walkthrough/challenges.md)
+## CTF Challenges & Module Walkthroughs
+[PwnCollege - Module](./pwncol-walkthroughs/pwncol.md) |
+[OverTheWire - Module](./overthewire-walkthroughs/otw.md) | 
+[CryptoHack - Challenges](./cryptohack-walkthrough/challenges.md)
 
 ## Socials & Public Profiles
 [LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/) |
