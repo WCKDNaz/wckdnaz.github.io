@@ -30,3 +30,11 @@ $ cd drop-in
 $ ls - to show files in the directory
 $ git log - This shows the commit logs, and you'll be presented with the flag.
 ```
+
+## Challenge: Enhance
+```
+Requirements: A file is to be downloaded, drawing.flag.svg
+Theory: After reading the documentation about svg files, it appears that they can be opened using a text editor like nano for example.
+
+# $nano drawing.flag.svg
+-- Solution: you can find the flag values distributed between tags at the end of the file.
