@@ -47,7 +47,8 @@ Major Disciplines:
 ## CTF Challenges & Module Walkthroughs
 [PwnCollege - Module](./pwncol-walkthroughs/pwncol.md) |
 [OverTheWire - Module](./overthewire-walkthroughs/otw.md) | 
-[CryptoHack - Challenges](./cryptohack-walkthrough/challenges.md)
+[CryptoHack - Challenges](./cryptohack-walkthrough/challenges.md) | 
+[PicoCTF - Challenges](./picoctf/pico-challenges.md)
 
 ## Socials & Public Profiles
 [LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/) |
