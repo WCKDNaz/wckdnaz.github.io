@@ -3,6 +3,8 @@ layout: default
 ---
 # General Challenges - PicoCTF
 The following challenges are the ones that I felt were a bit higher than introductory, in my opinion, and were fun challenges to complete.
+The goal of each challenge is to obtain a certain flag value, some challenges require you to download certain files, please refer to challenge name on PicoCTF,
+if you so wish to try and solve it yourself or follow my methods.
 
 ## Challenge: Can You See
 ```
@@ -38,3 +40,4 @@ Theory: After reading the documentation about svg files, it appears that they ca
 
 # $nano drawing.flag.svg
 -- Solution: you can find the flag values distributed between tags at the end of the file.
+```
