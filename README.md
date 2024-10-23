@@ -1,7 +1,8 @@
 # Personal Purpose
 This page is created to reflect on my journey through the field of Information Technology and other disciplines such as Machine Learning and Artificial Intelligence.
 I'll be uploading my projects that I work on here and solutions of Capture The Flag (CTF) challenges from my own point of view, to showcase my methodology & knowledge.
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1828143" style='border:none;'></iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/WCKDNaz.png" alt="Static-THM-Badge" />
 
 ## Technical Skills:
 Offsec Tools | Python | MATLAB | Unix CLI | Bash | SQL | Machine Learning | C (Learning)
