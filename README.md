@@ -1,9 +1,10 @@
 # Personal Purpose
 This page is created to reflect on my journey through the field of Information Technology and other disciplines such as Machine Learning and Artificial Intelligence.
 I'll be uploading my projects that I work on here and solutions of Capture The Flag (CTF) challenges from my own point of view, to showcase my methodology & knowledge.
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1828143" style='border:none;'></iframe>
 
 ## Technical Skills:
-Offsec Tools | Python | MATLAB | Unix CLI | Bash | SQL
+Offsec Tools | Python | MATLAB | Unix CLI | Bash | SQL | Machine Learning | C (Learning)
 
 ## Education
 ### M.Sc of Artificial Intelligence | University of East London, London (UEL) (_Jan 2024_) - (_Present_)
