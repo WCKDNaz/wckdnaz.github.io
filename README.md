@@ -1,22 +1,26 @@
 # Personal Purpose
 This page is created to reflect on my journey through the field of Information Technology and other disciplines such as Machine Learning and Artificial Intelligence.
-I'll be uploading my projects that I work on here and solutions of Capture The Flag (CTF) challenges from my own point of view, to showcase my methodology & knowledge.
+I'll be continuously uploading my projects that I am working on, solutions of Capture The Flag (CTF) challenges from my own point of view, showcasing my methodology & knowledge.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/WCKDNaz.png" alt="Static-THM-Badge" />
 
 ## Technical Skills:
-Offsec Tools | Python | MATLAB | Unix CLI | Bash | SQL | Machine Learning | C (Learning)
+Python | Unix CLI | OST | Bash | SQL | MATLAB | Machine Learning | C (Learning)
 
 ## Education
 ### M.Sc of Artificial Intelligence | University of East London, London (UEL) (_Jan 2024_) - (_Present_)
 Major Disciplines:
--   Artificial Intelligence
+-   Intelligent Systems
+-   Big Data Analytics
 -   Machine Learning
+-   Machine Vision
 
 ### B.BA of Information Management | Arab Academy for Science, Technology, And Maritime Transport, Egypt (AASTMT) (_Sept 2017_) - (_Sept 2021_)
 Major Disciplines:
 -   Information System Analysis & Design
 -   Website Development
+-   Database Management
+-   Networking
 
 ## Non-Credit Courses & Certificates:
 [Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=72c95f65-6b5f-433d-b0ab-b49c6db102eb&) |
@@ -27,23 +31,29 @@ Major Disciplines:
 
 [THM Advent of Cyber 2023](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZLF36RUJWF.png) - **TryHackMe**
 
-## Projects
-### URL Classification With Logistic Regression - Supervised ML
->Built a model from scratch using **pyspark's** framework to determine whether a URL is malicious or benign based on a set of selected features.
+## Capstone Projects
+### URL Binary Classification (Malicious or Benign) - Supervised ML
+>Built a model from scratch using **pyspark's** framework to determine whether a URL is malicious or benign based on a set of carefully selected features.
 >
->Features were identified by the output of a heatmap using **numpy's** and **sklearn's** libraries that correlated the highest impact of all viable columns to the target label column.
+>Features were identified by the output of a heatmap using **numpy's** and **sklearn's** libraries that correlated the highest impact of all viable columns to the target label column, and then aggregated by using `VectorAssembler` to be parsed in as one single feature vector.
 >
->Fine-tuned different learning algorithms by the usage of ensemble techniques and different classifiers such as OneVsRest, etc.
+>Utilized different learners to gain an initial model, furthermore gaining insight to build an approach to tackle the objective, utilized different methods such as aggregating the sum of two different learner outputs, modified `losstype` etc.
+>
+>Incorporated `ParamGridBuilder` and `CrossValidator` with `GBTClassifier`, added `weight` to respective labelled instances as a measure of balance in the dataset.
+>
+>Finally, a confusion matrix was utilized to measure the accuracy of the trained model's prediction on the given test set. **Achieved 91-92% Accuracy**
 
-### Rice Seed Classification - Machine Vision
->Built a neural network from scratch as part of my studies for my A.I - Machine Vision course, later on I moved on to configuring a pre-trained neural network using GoogleNet's network.
+### Rice Seed MultiClass-Classification - CNN & Transfer Learning
+>Built a neural network from scratch as part of my studies for my A.I - Machine Vision course. The network was relatively small in size and performed poorly.
 >
->Configured input layers and output layers respectively according to the number of classes existing in the dataset, set parameters to validate the learning process.
+>Later on, I decided on using a transfer learning approach to configure a pre-trained neural network that used `GoogleNet`'s network architechture.
 >
->Fine-tuned the network by adding accuracy and F1 score metrics to cross-validate, and configured a confusion matrix using MATLAB to analyze the results.
+>Configured `inputLayer` and `classificationLayer` respectively according to the number of classes existing in the dataset, set hyper-parameters to validate the learning process.
+>
+> Finally, utilized a confusion matrix using MATLAB to analyze the results of true-positives and false-negatives. **Achieved 94-95% Accuracy**
 
 ## CTF Machine Write-Ups
-[Basic Pentest Machine Room - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
+[Basic Pentest Room - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
 ## CTF Challenges & Module Walkthroughs
 [PwnCollege - Module](./pwncol-walkthroughs/pwncol.md) |
