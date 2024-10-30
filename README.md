@@ -2,6 +2,8 @@
 This page is created to reflect on my journey through the field of Information Technology and other disciplines such as Machine Learning and Artificial Intelligence.
 I'll be continuously uploading my projects that I am working on, solutions of Capture The Flag (CTF) challenges from my own point of view, showcasing my methodology & knowledge.
 
+<br>
+
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/WCKDNaz.png" alt="Static-THM-Badge" />
 </p>
