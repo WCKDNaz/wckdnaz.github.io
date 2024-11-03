@@ -58,6 +58,12 @@ Major Disciplines:
 ## CTF Machine Write-Ups
 [Basic Pentest Room - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
 
+## Machine Learning Projects
+These projects are for self-educational purposes only, some may have no application at all. The following page contains details about each project with links to the rendered
+code notebook and source code neatly formatted in drop-down for each project.
+
+[Supervised / Unsupervised ML Projects](./machine-learning/machine-learning.md)
+
 ## CTF Challenges & Module Walkthroughs
 [PwnCollege - Module](./pwncol-walkthroughs/pwncol.md) |
 [OverTheWire - Module](./overthewire-walkthroughs/otw.md) | 
