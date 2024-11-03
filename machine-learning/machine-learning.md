@@ -9,7 +9,6 @@ the project's nature.
 
 ## KNN MultiClass Classification - Supervised ML
 <details>
-  
   <summary>Details and Code</summary>
   <br>
   
