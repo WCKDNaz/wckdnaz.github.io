@@ -9,7 +9,7 @@ the project's nature.
 
 ## KNN MultiClass Classification - Supervised ML
 <details>
-  <summary><h2>Details and Code</h3></summary>
+  <summary><h3>Details and Code</h3></summary>
   <br>
   
   This is a fairly simple project, utilizing `Sci-kit-learn's` KNN classifier in a nested `for` loop to iterate through 
