@@ -8,23 +8,7 @@ on how you can analyze, build, and eventually train a model. Confusion matrices 
 the project's nature.
 
 ## KNN MultiClass Classification - Supervised ML
-<details>
-  <summary>Details and Code</summary>
-  <br>
-  
-  This is a fairly simple project, utilizing `Sci-kit-learn's` KNN classifier in a nested `for` loop to iterate through 
-  different `N-Neighbors` and different `train/test` subsetting. Label columns was `Diabetes` and had values of either `0`, `1`, or `2` thus indicating whether a 
-  patient was `No-Diabetes`, `Type 1 Diabetic`, or `Type 2 Diabetic`. The dataset was clean, and had no null-values so no pre-processing was done in this one.
-  
-  <br>
-  
-  [Rendered Code Notebook]()
-  
-  <br>
-  
-  [Download Dataset CSV File]()
-  
-  
-  <br>
-  
-</details>
+This is a fairly simple project, utilizing `Sci-kit-learn's` KNN classifier in a nested `for` loop to iterate through 
+different `N-Neighbors` and different `train/test` subsetting. Label columns was `Diabetes` and had values of either `0`, `1`, or `2` thus indicating whether a 
+patient was `No-Diabetes`, `Type 1 Diabetic`, or `Type 2 Diabetic`. The dataset was clean, and had no null-values so no pre-processing was done in this one.
+[Rendered Code Notebook](https://toadd.com) | [Download Dataset CSV File](https://toadd.com) | [Local Code Notebook]()
