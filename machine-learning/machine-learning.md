@@ -9,6 +9,7 @@ the project's nature.
 
 ## KNN MultiClass Classification - Supervised ML
 <details>
+  
   <summary>Details and Code</summary>
   
   This is a fairly simple project, utilizing `Sci-kit-learn's` KNN classifier in a nested `for` loop to iterate through 
@@ -124,5 +125,5 @@ the project's nature.
     plt.ylabel("True Label")
     plt.show()
     print("\n")
-  ```
-</details>
+
+</details>```
