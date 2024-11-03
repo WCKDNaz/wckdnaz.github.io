@@ -125,5 +125,5 @@ the project's nature.
     plt.ylabel("True Label")
     plt.show()
     print("\n")
-
-</details>```
+  ```
+</details>
