@@ -48,9 +48,9 @@ The following code notebook is unrendered, there is a rendered version on the pr
       print(f"The Accuracy of\t`{iteration}`\tN-Neighbor Value is {pred_accuracy:.2f}")
       confusion = confusion_matrix(labels_te, pred)
       plt.figure(figsize=(6, 4))
-      sns.heatmap(confusion, annot=True, cmap='Blues',
-                  xticklabels=["No Diabetes, Type 1 Diabetic, Type 2 Diabetic"],
-                  yticklabels=["No Diabetes, Type 1 Diabetic, Type 2 Diabetic"])
+      sns.heatmap(confusion, annot=True, cmap='Blues', fmt='g',
+                  xticklabels=["No Diabetes", "Type 1 Diabetic", "Type 2 Diabetic"],
+                  yticklabels=["No Diabetes", "Type 1 Diabetic", "Type 2 Diabetic"])
       plt.title("Confusion Matrix For KNN")
       plt.xlabel("Predicted Label")
       plt.ylabel("True Label")
@@ -71,9 +71,9 @@ The following code notebook is unrendered, there is a rendered version on the pr
   
   confusion = confusion_matrix(labels_te, optimal_pred)
   plt.figure(figsize=(6, 4))
-  sns.heatmap(confusion, annot=True, cmap='Blues',
-              xticklabels=["No Diabetes, Type 1 Diabetic, Type 2 Diabetic"],
-              yticklabels=["No Diabetes, Type 1 Diabetic, Type 2 Diabetic"])
+  sns.heatmap(confusion, annot=True, cmap='Blues', fmt='g',
+              xticklabels=["No Diabetes", "Type 1 Diabetic", "Type 2 Diabetic"],
+              yticklabels=["No Diabetes", "Type 1 Diabetic", "Type 2 Diabetic"])
   plt.title("Confusion Matrix For KNN")
   plt.xlabel("Predicted Label")
   plt.ylabel("True Label")
@@ -96,9 +96,9 @@ The following code notebook is unrendered, there is a rendered version on the pr
   
     confusion = confusion_matrix(labels_te, weighted_pred)
     plt.figure(figsize=(6, 4))
-    sns.heatmap(confusion, annot=True, cmap='Blues',
-                xticklabels=["No Diabetes, Type 1 Diabetic, Type 2 Diabetic"],
-                yticklabels=["No Diabetes, Type 1 Diabetic, Type 2 Diabetic"])
+    sns.heatmap(confusion, annot=True, cmap='Blues', fmt='g',
+                xticklabels=["No Diabetes", "Type 1 Diabetic", "Type 2 Diabetic"],
+                yticklabels=["No Diabetes", "Type 1 Diabetic", "Type 2 Diabetic"])
     plt.title("Confusion Matrix For KNN")
     plt.xlabel("Predicted Label")
     plt.ylabel("True Label")
