@@ -13,4 +13,4 @@ different `N-Neighbors` and different `train/test` subsetting. Label columns was
 patient was `No-Diabetes`, `Type 1 Diabetic`, or `Type 2 Diabetic`. The dataset was clean, and had no null-values so no pre-processing was done in this one.
 <br>
 
-[Rendered Code Notebook](./assets/machine-learning-assets/simple-knn-mcc.html) | [Dataset CSV File](./assets/machine-learning-assets/diabetes.csv) | [Code Notebook](./knn-multiclass.md)
+[Rendered Code Notebook](/assets/machine-learning-assets/simple-knn-mcc.html) | [Dataset CSV File](/assets/machine-learning-assets/diabetes.csv) | [Code Notebook](./knn-multiclass.md)
