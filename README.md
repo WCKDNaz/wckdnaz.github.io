@@ -56,7 +56,8 @@ Major Disciplines:
 > Finally, utilized a confusion matrix using MATLAB to analyze the results of true-positives and false-negatives. **Achieved 94-95% Accuracy**
 
 ## CTF Machine Write-Ups
-[Basic Pentest Room - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34)
+[Basic Pentest Room - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34) |
+[Three ST Machine - HTB](https://wckdnaz.medium.com/three-htb-machine-walk-through-e417adbf23e4)
 
 ## Machine Learning Projects
 These projects are for self-educational purposes only, some may have no application at all. The following page contains details about each project with links to the rendered
