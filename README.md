@@ -44,7 +44,7 @@ Major Disciplines:
 >
 >Incorporated `ParamGridBuilder` and `CrossValidator` with `GBTClassifier`, added `weight` to respective labelled instances as a measure of balance in the dataset.
 >
->Finally, a confusion matrix was utilized to measure the accuracy of the trained model's prediction on the given test set. **Achieved 91-92% Accuracy**
+>Finally, a confusion matrix was utilized to measure the accuracy of the trained model's prediction on the given test set. **Achieved 90% accuracy, heavily skewed data**
 
 ### Rice Seed MultiClass-Classification - CNN & Transfer Learning
 >Built a neural network from scratch as part of my studies for my A.I - Machine Vision course. The network was relatively small in size and performed poorly.
@@ -53,21 +53,20 @@ Major Disciplines:
 >
 >Configured `inputLayer` and `classificationLayer` respectively according to the number of classes existing in the dataset, set hyper-parameters to validate the learning process.
 >
-> Finally, utilized a confusion matrix using MATLAB to analyze the results of true-positives and false-negatives. **Achieved 94-95% Accuracy**
+> Finally, utilized a confusion matrix using MATLAB to analyze the results of true-positives and false-negatives. **Achieved 94-95% accuracy**
 
 ## CTF Machine Write-Ups
 [Basic Pentest Room - THM](https://wckdnaz.medium.com/basic-pentesting-writeup-thm-4bb027c82a34) |
 [Three ST Machine - HTB](https://wckdnaz.medium.com/three-htb-machine-walk-through-e417adbf23e4)
 
 ## Machine Learning Projects
-These projects are for self-educational purposes only, some may have no application at all. The following page contains details about each project with links to the rendered
-code notebook and source code neatly formatted in drop-down for each project.
+These projects are for self-educational purposes only, some may have very limited application. The following page contains details about each project with links to the rendered code-book and the dataset file that was used in each project.
 
 [Supervised / Unsupervised ML Projects](./machine-learning/machine-learning.md)
 
 ## CTF Challenges & Module Walkthroughs
-[PwnCollege - Module](./pwncol-walkthroughs/pwncol.md) |
-[OverTheWire - Module](./overthewire-walkthroughs/otw.md) | 
+[PwnCollege - Modules](./pwncol-walkthroughs/pwncol.md) |
+[OverTheWire - WarGames](./overthewire-walkthroughs/otw.md) | 
 [CryptoHack - Challenges](./cryptohack-walkthrough/challenges.md) | 
 [PicoCTF - Challenges](./picoctf/pico-challenges.md)
 
