@@ -73,5 +73,4 @@ These projects are for self-educational purposes only, some may have very limite
 ## Socials & Public Profiles
 [LinkedIn](https://www.linkedin.com/in/omar-nassar-b87277222/) |
 [TryHackMe](https://tryhackme.com/p/WCKDNaz) |
-[HackTheBox](https://ctf.hackthebox.com/user/profile/431133) |
 [PwnCollege](https://pwn.college/hacker/wckdnaz)
